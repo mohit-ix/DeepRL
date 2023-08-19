@@ -122,8 +122,10 @@ celerybeat.pid
 # Environments
 .env
 .deeprl
+.Unit 6/PongNoFrameskip_state
 env/
 deeprl/
+Unit 6/PongNoFrameskip_state
 ENV/
 env.bak/
 deeprl.bak/
